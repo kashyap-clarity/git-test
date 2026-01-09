@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bbb
+=======
+abc
+>>>>>>> 6576ccf (Create a.txt)
